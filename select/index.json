@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "罰して光",
+  "base_artist": "なきそ",
+  "createdAt": "2026-02-08T00:51:45.493193Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "罰して光",
+      "artist": "なきそ",
+      "has_synced": false,
+      "path": "select/pl_01_罰して光_なきそ.txt"
+    }
+  ]
+}
